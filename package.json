@@ -1,8 +1,8 @@
 {
-  "name": "angular-socialshare",
-  "version": "2.3.11",
+  "name": "@dvinr/angular-socialshare",
+  "version": "2.4.0",
   "description": "A social media url and content share module for angularjs.",
-  "homepage": "http://720kb.github.io/angular-socialshare",
+  "homepage": "https://github.com/Dvinr/angular-socialshare",
   "keywords": [
     "social",
     "sharing",
@@ -26,7 +26,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/720kb/angular-socialshare.git"
+    "url": "https://github.com/Dvinr/angular-socialshare.git"
   },
   "license": "MIT",
   "devDependencies": {
